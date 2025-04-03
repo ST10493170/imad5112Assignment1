@@ -1,1 +1,7 @@
-
+This is the Guide to help operate MyFoodApp.
+The app is made up of three types of Time scheduled meals which are Morning, Afternoon, Night and also Dessert.
+When you want a Morning Meal, you shall type "Morning" and then press the "Submit" button then the app will automatically suggest a Meal for that Specific time.
+When you want an Afternoon Meal, you shall type "Afternoon" and then press the "Submit" button then the app will automatically suggest a Meal for that specific time.
+When you want a Night Meal, you shall type "Night" and then press the "Submit" button then the app will automatically suggest a meal for that specific time.
+When you want a Dessert, you shall type "Dessert" and then press the Submit" button then the app will automatically suggest a Dessert for you.
+Thank You.
